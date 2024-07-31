@@ -12,3 +12,6 @@ The Snake game is a classic arcade game where the player controls a snake that m
 - **Eat Food**: Collect food items to grow the snake.
 - **Avoid Collisions**: Avoid running into the walls or the snake's own body.
 - **Score Tracking**: Keep track of the player's score based on the number of food items collected.
+##
+
+![image](https://github.com/user-attachments/assets/e70ee0eb-66b0-4db9-9302-1ce1d34e7c5a)
